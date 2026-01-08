@@ -6,7 +6,7 @@ Repository for Project V̅DCXLI.
 2. Letter showing the iteration from the non-`main` branch (if lowercase letters are unavailable, transition into uppercase)
 3. Hyphen followed by the author
 
-*e.g.*\
+*e.g.*
 ### `1b-JohnDoe`
 The **1**st branch from the main, **b** (2nd) branch from the non-main (directly after `1a`) and written by **JohnDoe**.
 
